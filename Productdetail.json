@@ -2,7 +2,7 @@
     {
         "ID":1,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":"Women's Clothing",
         "Color":"Red",
         "Price":3200,
         "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
@@ -10,394 +10,313 @@
     {
         "ID":2,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"dark red",
         "Price":3100,
-        "Picture":"https://example.com/pic2.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":3,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Red",
         "Price":3000,
-        "Picture":"https://example.com/pic3.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":4,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Green",
         "Price":3000,
-        "Picture":"https://example.com/pic4.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":5,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"dark blue",
         "Price":2900,
-        "Picture":"https://example.com/pic5.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":6,
         "Design":"FLOWER",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Yellow",
         "Price":3200,
-        "Picture":"https://example.com/pic6.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":7,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Red",
         "Price":3500,
-        "Picture":"https://example.com/pic7.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":8,
         "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Parpal",
+        "Category":Women's Clothing,
+        "Color":"Purpal",
         "Price":3000,
-        "Picture":"https://example.com/pic8.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":9,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"ZINK",
         "Price":3100,
-        "Picture":"https://example.com/pic9.jpg"
-    },
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
+},
     {
         "ID":10,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"BLACK",
         "Price":3500,
-        "Picture":"https://example.com/pic10.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":11,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"BLACK",
         "Price":2900,
-        "Picture":"https://example.com/pic11.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":12,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"WITCHE",
         "Price":3400,
-        "Picture":"https://example.com/pic12.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":13,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Light green",
         "Price":3500,
-        "Picture":"https://example.com/pic13.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":14,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Black",
         "Price":3200,
-        "Picture":"https://example.com/pic14.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":15,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"Golden",
         "Price":3000,
-        "Picture":"https://example.com/pic15.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":16,
         "Design":"Flower",
-        "Category":"Three Piece",
+        "Category":Women's Clothing,
         "Color":"dark green",
         "Price":3000,
-        "Picture":"https://example.com/pic16.jpg"
+        "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
     {
         "ID":17,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":5200,
-        "Picture":"https://example.com/pic1.jpg"
-    },
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”},
     {
         "ID":18,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark red",
-        "Price":5100,
-        "Picture":"https://example.com/pic2.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":19,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":6000,
-        "Picture":"https://example.com/pic3.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":20,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Green",
-        "Price":5400,
-        "Picture":"https://example.com/pic4.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":21,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark blue",
-        "Price":5900,
-        "Picture":"https://example.com/pic5.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":22,
-        "Design":"FLOWER",
-        "Category":"Three Piece",
-        "Color":"Yellow",
-        "Price":5200,
-        "Picture":"https://example.com/pic6.jpg"
+        "Design":null,
+       "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":23,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":4900,
-        "Picture":"https://example.com/pic7.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":24,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Parpal",
-        "Price":5000,
-        "Picture":"https://example.com/pic8.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":25,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"ZINK",
-        "Price":5100,
-        "Picture":"https://example.com/pic9.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":26,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"BLACK",
-        "Price":5500,
-        "Picture":"https://example.com/pic10.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":27,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"BLACK",
-        "Price":5500,
-        "Picture":"https://example.com/pic11.jpg"
+        "Design":null,
+       "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":28,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"WITCHE",
-        "Price":5000,
-        "Picture":"https://example.com/pic12.jpg"
+        "Design":null,
+        "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":29,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Light green",
-        "Price":5000,
-        "Picture":"https://example.com/pic13.jpg"
+        "Design":null,
+       "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":30,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Black",
-        "Price":5200,
-        "Picture":"https://example.com/pic14.jpg"
+        "Design":null,
+       "Category":"Men’s Clothing",
+        "Color":null,
+        "Price":null,
+        "Picture":”https://raw.github.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/blob/main/Manwhite.png”}
     },
     {
         "ID":31,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Golden",
-        "Price":5300,
-        "Picture":"https://example.com/pic15.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":32,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark green",
-        "Price":5000,
-        "Picture":"https://example.com/pic16.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":33,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":5200,
-        "Picture":"https://example.com/pic1.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":34,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark red",
-        "Price":5100,
-        "Picture":"https://example.com/pic2.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":35,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":5000,
-        "Picture":"https://example.com/pic3.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":36,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Green",
-        "Price":5000,
-        "Picture":"https://example.com/pic4.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":37,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark blue",
-        "Price":5400,
-        "Picture":"https://example.com/pic5.jpg"
-    },
-    {
-        "ID":28,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Parpal",
-        "Price":5000,
-        "Picture":"https://example.com/pic8.jpg"
-    },
-    {
-        "ID":29,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"ZINK",
-        "Price":5100,
-        "Picture":"https://example.com/pic9.jpg"
-    },
-    {
-        "ID":30,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"BLACK",
-        "Price":5500,
-        "Picture":"https://example.com/pic10.jpg"
-    },
-    {
-        "ID":31,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"BLACK",
-        "Price":4900,
-        "Picture":"https://example.com/pic11.jpg"
-    },
-    {
-        "ID":32,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"WITCHE",
-        "Price":5400,
-        "Picture":"https://example.com/pic12.jpg"
-    },
-    {
-        "ID":33,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Light green",
-        "Price":5500,
-        "Picture":"https://example.com/pic13.jpg"
-    },
-    {
-        "ID":34,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Black",
-        "Price":5200,
-        "Picture":"https://example.com/pic14.jpg"
-    },
-    {
-        "ID":35,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Golden",
-        "Price":5000,
-        "Picture":"https://example.com/pic15.jpg"
-    },
-    {
-        "ID":36,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark green",
-        "Price":5000,
-        "Picture":"https://example.com/pic16.jpg"
-    },
-    {
-        "ID":37,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":5200,
-        "Picture":"https://example.com/pic1.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":38,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"dark red",
-        "Price":5100,
-        "Picture":"https://example.com/pic2.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":39,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Red",
-        "Price":5000,
-        "Picture":"https://example.com/pic3.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":40,
-        "Design":"Flower",
-        "Category":"Three Piece",
-        "Color":"Green",
-        "Price":4900,
-        "Picture":"https://example.com/pic4.jpg"
+        "Design":null,
+        "Category":"null",
+        "Color":null,
+        "Price":null,
+        "Picture":null
     },
     {
         "ID":41,
@@ -719,5 +638,4 @@
         "Price":null,
         "Picture":null
     }
-    
 ]
