@@ -1,4 +1,3 @@
-// data/coupons.json
 {
   "coupons": [
     {
@@ -42,4 +41,5 @@
       "description": "Flat PKR 50 off on any order"
     }
   ]
+
 }
