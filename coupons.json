@@ -1,0 +1,45 @@
+// data/coupons.json
+{
+  "coupons": [
+    {
+      "id": 1,
+      "code": "WELCOME10",
+      "discount": 10,
+      "type": "percentage",
+      "minOrder": 1000,
+      "maxDiscount": 500,
+      "valid": true,
+      "description": "10% off on your first order"
+    },
+    {
+      "id": 2,
+      "code": "FREESHIP",
+      "discount": 150,
+      "type": "fixed",
+      "minOrder": 2000,
+      "maxDiscount": 150,
+      "valid": true,
+      "description": "Free delivery on orders above PKR 2000"
+    },
+    {
+      "id": 3,
+      "code": "SAVE25",
+      "discount": 25,
+      "type": "percentage",
+      "minOrder": 3000,
+      "maxDiscount": 1000,
+      "valid": true,
+      "description": "25% off on orders above PKR 3000"
+    },
+    {
+      "id": 4,
+      "code": "FLAT50",
+      "discount": 50,
+      "type": "fixed",
+      "minOrder": 500,
+      "maxDiscount": 50,
+      "valid": true,
+      "description": "Flat PKR 50 off on any order"
+    }
+  ]
+}
