@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "🔥 Mega Winter Sale",
+    "short_desc": "Up to 50% Off on all winter wear.",
+    "image_url": "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/assets/images/Banner1.png",
+    "details": "Don't miss out on our biggest sale of the season! Get up to 50% off on our exclusive winter collection, including shawls, sweaters, and velvet suits. This is a limited-time offer, so shop now to stay warm and stylish.",
+    "promo_code": "WINTER50",
+    "valid_until": "2024-12-31"
+  },
+  {
+    "id": 2,
+    "title": "🧡 Buy 1 Get 1 Free!",
+    "short_desc": "On selected shirts and kurtas.",
+    "image_url": "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/assets/images/Banner2.png",
+    "details": "Double the joy with our Buy 1 Get 1 Free offer. Purchase any item from our selected range of premium shirts and kurtas, and get another one absolutely free. Perfect for gifting or treating yourself.",
+    "promo_code": null,
+    "valid_until": "2024-11-30"
+  },
+  {
+    "id": 3,
+    "title": "✨ Festive Offer - Flat 30% Off",
+    "short_desc": "Celebrate the season with vibrant styles.",
+    "image_url": "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/assets/images/Banner3.png",
+    "details": "Light up your festive season with our special collection. Enjoy a flat 30% discount on all festive wear. From elegant sarees to dashing kurtas, find the perfect outfit for your celebrations.",
+    "promo_code": "FESTIVE30",
+    "valid_until": "2024-12-05"
+  },
+  {
+    "id": 4,
+    "title": "💥 Free Delivery",
+    "short_desc": "On all orders above PKR 3000.",
+    "image_url": "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/assets/images/Banner1.png",
+    "details": "Shop to your heart's content and we'll take care of the delivery charges. Get free shipping on every order with a total value of PKR 3000 or more. No coupon code required.",
+    "promo_code": null,
+    "valid_until": "N/A"
+  }
+]
