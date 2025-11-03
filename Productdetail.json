@@ -3,7 +3,766 @@
         "ID":1,
         "Design":"Flower",
         "Category":"Women's Clothing",
-        "Color":"Red",
+        "Color":"Red",[
+    {
+        "ID": 1,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "BLACK",
+        "Price": 3700,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8F2K3J (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8F2K3J (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8F2K3J (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8F2K3J (4).png"
+        ]
+    },
+    {
+        "ID": 2,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "RED",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1Z9L8T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1Z9L8T (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1Z9L8T (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1Z9L8T (4).png"
+        ]
+    },
+    {
+        "ID": 3,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "PINK",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7Q4W2B (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7Q4W2B (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7Q4W2B (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7Q4W2B (4).png"
+        ]
+    },
+    {
+        "ID": 4,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "ZINK",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6C8V1M (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6C8V1M (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6C8V1M (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6C8V1M (4).png"
+        ]
+    },
+    {
+        "ID": 5,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "DARK BLUE",
+        "Price": 2900,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9N5J7S (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9N5J7S (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9N5J7S (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9N5J7S (4).png"
+        ]
+    },
+    {
+        "ID": 6,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "BLACK",
+        "Price": 3200,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2R3X9L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2R3X9L (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2R3X9L (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2R3X9L (4).png"
+        ]
+    },
+    {
+        "ID": 7,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "ZINK",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5K8M2T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5K8M2T (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5K8M2T (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5K8M2T (4).png"
+        ]
+    },
+    {
+        "ID": 8,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "DAL GREEN",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3L9F4Z (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3L9F4Z (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3L9F4Z (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3L9F4Z (4).png"
+        ]
+    },
+    {
+        "ID": 9,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "LIGHT BROWN",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4W2D6Y (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4W2D6Y (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4W2D6Y (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4W2D6Y (4).png"
+        ]
+    },
+    {
+        "ID": 10,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "ZINK",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7B1Q5P (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7B1Q5P (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7B1Q5P (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7B1Q5P (4).png"
+        ]
+    },
+    {
+        "ID": 11,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "CAMAL",
+        "Price": 2900,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6J4V9N (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6J4V9N (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6J4V9N (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6J4V9N (4).png"
+        ]
+    },
+    {
+        "ID": 12,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "PICHE",
+        "Price": 3400,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C5X2L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C5X2L (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C5X2L (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C5X2L (4).png"
+        ]
+    },
+    {
+        "ID": 13,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "PINK",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9T7R3G (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9T7R3G (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9T7R3G (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9T7R3G (4).png"
+        ]
+    },
+    {
+        "ID": 14,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "BLACK",
+        "Price": 3200,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3N4M6D (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3N4M6D (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3N4M6D (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3N4M6D (4).png"
+        ]
+    },
+    {
+        "ID": 15,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "GARY",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5Z9X8V (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5Z9X8V (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5Z9X8V (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5Z9X8V (4).png"
+        ]
+    },
+    {
+        "ID": 16,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "LIGHT ORENGE",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2Q3C1J (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2Q3C1J (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2Q3C1J (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2Q3C1J (4).png"
+        ]
+    },
+    {
+        "ID": 17,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Yellow",
+        "Price": 3200,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4K5B7T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4K5B7T (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4K5B7T (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4K5B7T (4).png"
+        ]
+    },
+    {
+        "ID": 18,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Musterd",
+        "Price": 3400,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7F2W9H (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7F2W9H (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7F2W9H (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-7F2W9H (4).png"
+        ]
+    },
+    {
+        "ID": 19,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Green",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9L8D3S (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9L8D3S (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9L8D3S (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9L8D3S (4).png"
+        ]
+    },
+    {
+        "ID": 20,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Copper",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1G4R6M (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1G4R6M (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1G4R6M (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1G4R6M (4).png"
+        ]
+    },
+    {
+        "ID": 21,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Gray",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3Y7X2N (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3Y7X2N (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3Y7X2N (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3Y7X2N (4).png"
+        ]
+    },
+    {
+        "ID": 22,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "DARK BLUE",
+        "Price": 2900,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5C8P9Z (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5C8P9Z (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5C8P9Z (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5C8P9Z (4).png"
+        ]
+    },
+    {
+        "ID": 23,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Meginta",
+        "Price": 3400,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2M1K4J (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2M1K4J (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2M1K4J (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2M1K4J (4).png"
+        ]
+    },
+    {
+        "ID": 24,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Light Gray",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4S9B3T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4S9B3T (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4S9B3T (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4S9B3T (4).png"
+        ]
+    },
+    {
+        "ID": 25,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Maroon",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6N7W2V (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6N7W2V (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6N7W2V (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6N7W2V (4).png"
+        ]
+    },
+    {
+        "ID": 26,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Light Yellow",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8H5Q1L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8H5Q1L (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8H5Q1L (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8H5Q1L (4).png"
+        ]
+    },
+    {
+        "ID": 27,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Dark Red",
+        "Price": 2900,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9D2X4F (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9D2X4F (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9D2X4F (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9D2X4F (4).png"
+        ]
+    },
+    {
+        "ID": 28,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Dark Green",
+        "Price": 3200,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1V3J8R (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1V3J8R (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1V3J8R (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1V3J8R (4).png"
+        ]
+    },
+    {
+        "ID": 29,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Purple",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P5C9K (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P5C9K (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P5C9K (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P5C9K (4).png"
+        ]
+    },
+    {
+        "ID": 30,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Red",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5L6W2Z (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5L6W2Z (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5L6W2Z (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5L6W2Z (4).png"
+        ]
+    },
+    {
+        "ID": 31,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Grey",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2B4T8M (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2B4T8M (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2B4T8M (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2B4T8M (4).png"
+        ]
+    },
+    {
+        "ID": 32,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Mix",
+        "Price": 3200,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4X1R7N (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4X1R7N (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4X1R7N (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4X1R7N (4).png"
+        ]
+    },
+    {
+        "ID": 33,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Black",
+        "Price": 3400,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6F9S3G (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6F9S3G (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/-6F9S3G (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6F9S3G (4).png"
+        ]
+    },
+    {
+        "ID": 34,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Dark Blue",
+        "Price": 3500,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q2D5Y (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q2D5Y (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q2D5Y (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q2D5Y (4).png"
+        ]
+    },
+    {
+        "ID": 35,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Mix",
+        "Price": 3000,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9K7H4L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9K7H4L (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9K7H4L (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9K7H4L (4).png"
+        ]
+    },
+    {
+        "ID": 36,
+        "Design": "Flower",
+        "Category": "Women's Clothing",
+        "Color": "Dark Blue",
+        "Price": 3100,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1M3V6P (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1M3V6P (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1M3V6P (3).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1M3V6P (4).png"
+        ]
+    },
+    {
+        "ID": 37,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3J9N8X (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3J9N8X (2).png"
+        ]
+    },
+    {
+        "ID": 38,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Off White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5R2Z4C (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5R2Z4C (2).png"
+        ]
+    },
+    {
+        "ID": 39,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "BLACK",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2H8B7T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2H8B7T (2).png"
+        ]
+    },
+    {
+        "ID": 40,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Musterd",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4L5F3W (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4L5F3W (2).png"
+        ]
+    },
+    {
+        "ID": 41,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Grey",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6S9Q2M (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6S9Q2M (2).png"
+        ]
+    },
+    {
+        "ID": 42,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C4D1N (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8C4D1N (2).png"
+        ]
+    },
+    {
+        "ID": 43,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Dark Green",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9W7X5K (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9W7X5K (2).png"
+        ]
+    },
+    {
+        "ID": 44,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1T3J6L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1T3J6L (2).png"
+        ]
+    },
+    {
+        "ID": 45,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Sky Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P8R9V (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3P8R9V (2).png"
+        ]
+    },
+    {
+        "ID": 46,
+        "Design": null,
+        "Category": "Men's Clothing",
+        "Color": "Light Grey",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5N2G4Y (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5N2G4Y (2).png"
+        ]
+    },
+    {
+        "ID": 47,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6X5C3F (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6X5C3F (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6X5C3F (3).png"
+        ]
+    },
+    {
+        "ID": 48,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Rose",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q7V2L (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q7V2L (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8Q7V2L (3).png"
+        ]
+    },
+    {
+        "ID": 49,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Orange",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9R1W4N (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9R1W4N (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9R1W4N (3).png"
+        ]
+    },
+    {
+        "ID": 50,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Light Green",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1J8T9B (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1J8T9B (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1J8T9B (3).png"
+        ]
+    },
+    {
+        "ID": 51,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Blue and White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3F6M2P (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3F6M2P (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3F6M2P (3).png"
+        ]
+    },
+    {
+        "ID": 52,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5H4X3Z (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5H4X3Z (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5H4X3Z (3).png"
+        ]
+    },
+    {
+        "ID": 53,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "White & Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2C9S7K (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2C9S7K (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2C9S7K (3).png"
+        ]
+    },
+    {
+        "ID": 54,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Black & White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4L5Q8G (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4L5Q8G (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4L5Q8G (3).png"
+        ]
+    },
+    {
+        "ID": 55,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "White & Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6B2R1D (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6B2R1D (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-6B2R1D (3).png"
+        ]
+    },
+    {
+        "ID": 56,
+        "Design": null,
+        "Category": "Bedding",
+        "Color": "Mix",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8W3N9T (1).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8W3N9T (2).png",
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-8W3N9T (3).png"
+        ]
+    },
+    {
+        "ID": 57,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "Purple",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-9Y7P5V (1).png"
+        ]
+    },
+    {
+        "ID": 58,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "White",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-1G6M4C (1).png"
+        ]
+    },
+    {
+        "ID": 59,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "Dark Grey",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-3K8F2L (1).png"
+        ]
+    },
+    {
+        "ID": 60,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "Dark Green",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-5S9J1H (1).png"
+        ]
+    },
+    {
+        "ID": 61,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "Blue",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-2N3R7X (1).png"
+        ]
+    },
+    {
+        "ID": 62,
+        "Design": null,
+        "Category": "Curtains",
+        "Color": "Black",
+        "Price": null,
+        "Picture": [
+            "https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/PRD-4V5T6P (1).png"
+        ]
+    }
+]
         "Price":3700,
         "Picture":"https://raw.githubusercontent.com/Muhammad-Roshaan/Desi_Clothing_OnlineDetail/main/Dress3.png"
     },
